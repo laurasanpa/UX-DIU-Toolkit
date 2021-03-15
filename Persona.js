@@ -33,7 +33,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Alicia",
 				Photo: "man.png",
 				Quote: "Carpe Diem",
 				Age: 32,
